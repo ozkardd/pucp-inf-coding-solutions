@@ -9,7 +9,7 @@ Actualmente se cuenta con solucionarios a los siguientes cursos:
 * Estructura de datos y programación metódica
 Los enunciados se encuentran en el drive de la especialidad [https://drive.google.com/]
 
-Puedes contribuir al repositorio brindando tus soluciones siguiendo los siguientes formatos
+Puedes contribuir al repositorio brindando tus soluciones siguiendo los siguientes formatos:
 
 ### Nombre de archivo
 
