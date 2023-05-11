@@ -7,6 +7,7 @@ Actualmente se cuenta con solucionarios a los siguientes cursos:
 * Lenguajes de Programación 1
 * Lenguajes de Programación 2
 * Estructura de datos y programación metódica
+
 Los enunciados se encuentran en el drive de la especialidad [https://drive.google.com/]
 
 Puedes contribuir al repositorio brindando tus soluciones siguiendo los siguientes formatos:
