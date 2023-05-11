@@ -1,6 +1,6 @@
 # pucp-inf-coding-solutions
 
-Repositorio con soluciones a las evaluaciones de la especialidad
+Repositorio con soluciones a las evaluaciones de la especialidad.
 Actualmente se cuenta con solucionarios a los siguientes cursos:
 * Algoritmia
 * Fundamentos de Programación
